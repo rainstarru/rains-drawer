@@ -1,11 +1,11 @@
 {
-  "name": "Nightshade",
+  "name": "rainy",
   "description": "Relatively easy to the eyes, I think",
-  "version": "3",
+  "version": "1",
   "authors": [
     {
-      "name": "Theme author",
-      "id": "000000000000000000"
+      "name": "Rains",
+      "id": "804648595390464010"
     }
   ],
   "semanticColors": {
@@ -307,5 +307,11 @@
     "customOverlays": true,
     "iconpack": "rosiecord-plumpy"
   },
-  "spec": 2
+  "spec": 2,
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1029064811495030907/1521967680385454133/0ace3486db6ea20ea649e7bb42d1bbe5.jpg?ex=6ac0b51b&is=6abf639b&hm=afb6fa3025284b27ace73d24fc5d2b8cbf14a9aa38b586c60a5abcfb2376a3c6&",
+    "alpha": 0.4,
+    "size": "cover",
+    "position": "center"
+  }
 }
