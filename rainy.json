@@ -1,7 +1,7 @@
 {
   "name": "rainy",
   "description": "SHOULD be easy to the eyes",
-  "version": "2",
+  "version": "1.3",
   "authors": [
     {
       "name": "Rains",
@@ -10,19 +10,19 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#635EA1"
+      "#858DC7"
     ],
     "BACKGROUND_BRAND": [
-      "#635EA1"
+      "#858DC7"
     ],
     "MENTION_FOREGROUND": [
-      "#635EA1"
+      "#858DC7"
     ],
     "TEXT_LINK": [
-      "#635EA1"
+      "#858DC7"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#635EA1"
+      "#858DC7"
     ],
     "INTERACTIVE_HOVER": [
       "#171436"
