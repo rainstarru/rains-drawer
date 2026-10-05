@@ -1,7 +1,7 @@
 {
   "name": "rainy",
-  "description": "Relatively easy to the eyes, I think",
-  "version": "1",
+  "description": "SHOULD be easy to the eyes",
+  "version": "2",
   "authors": [
     {
       "name": "Rains",
@@ -10,22 +10,22 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#4A4A80"
+      "#635EA1"
     ],
     "BACKGROUND_BRAND": [
-      "#4A4A80"
+      "#635EA1"
     ],
     "MENTION_FOREGROUND": [
-      "#4A4A80"
+      "#635EA1"
     ],
     "TEXT_LINK": [
-      "#4A4A80"
+      "#635EA1"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#4A4A80"
+      "#635EA1"
     ],
     "INTERACTIVE_HOVER": [
-      "#141346"
+      "#171436"
     ],
     "CHANNELS_DEFAULT": [
       "#9AA1CF"
@@ -148,28 +148,28 @@
       "#060313"
     ],
     "HEADER_PRIMARY": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "INTERACTIVE_NORMAL": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "TEXT_DEFAULT": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "TEXT_NORMAL": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "TEXT_PRIMARY": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "TEXT_STRONG": [
-      "#C2CCEC"
+      "#868BB9"
     ],
     "ANDROID_RIPPLE": [
       "#5b2a82"
@@ -236,29 +236,29 @@
     ]
   },
   "rawColors": {
-    "BRAND_200": "#4A4A80",
-    "BRAND_260": "#4A4A80",
-    "BRAND_300": "#4A4A80",
-    "BRAND_330": "#4A4A80",
-    "BRAND_345": "#4A4A80",
-    "BRAND_360": "#4A4A80",
-    "BRAND_400": "#4A4A80",
-    "BRAND_430": "#4A4A80",
-    "BRAND_460": "#4A4A80",
-    "BRAND_500": "#4A4A80",
-    "BRAND_530": "#4A4A80",
-    "BRAND_600": "#4A4A80",
-    "BRAND_630": "#4A4A80",
-    "BRAND_660": "#4A4A80",
-    "BRAND_700": "#4A4A80",
-    "PLUM_3": "#4A4A80",
-    "PLUM_15": "#4A4A80",
-    "PRIMARY_300": "#4A4A80",
-    "PRIMARY_360": "#4A4A80",
-    "PRIMARY_500": "#4A4A80",
-    "PRIMARY_530": "#4A4A80",
-    "BRAND_560": "#141346",
-    "PRIMARY_400": "#141346",
+    "BRAND_200": "#635EA1",
+    "BRAND_260": "#635EA1",
+    "BRAND_300": "#635EA1",
+    "BRAND_330": "#635EA1",
+    "BRAND_345": "#635EA1",
+    "BRAND_360": "#635EA1",
+    "BRAND_400": "#635EA1",
+    "BRAND_430": "#635EA1",
+    "BRAND_460": "#635EA1",
+    "BRAND_500": "#635EA1",
+    "BRAND_530": "#635EA1",
+    "BRAND_600": "#635EA1",
+    "BRAND_630": "#635EA1",
+    "BRAND_660": "#635EA1",
+    "BRAND_700": "#635EA1",
+    "PLUM_3": "#635EA1",
+    "PLUM_15": "#635EA1",
+    "PRIMARY_300": "#635EA1",
+    "PRIMARY_360": "#635EA1",
+    "PRIMARY_500": "#635EA1",
+    "PRIMARY_530": "#635EA1",
+    "BRAND_560": "#171436",
+    "PRIMARY_400": "#171436",
     "PLUM_9": "#9AA1CF",
     "PLUM_10": "#9AA1CF",
     "PLUM_11": "#9AA1CF",
@@ -284,15 +284,15 @@
     "PRIMARY_DARK_600": "#060313",
     "PRIMARY_DARK_630": "#060313",
     "PRIMARY_DARK_660": "#060313",
-    "BRAND_730": "#C2CCEC",
-    "PLUM_1": "#C2CCEC",
-    "PLUM_4": "#C2CCEC",
-    "PLUM_6": "#C2CCEC",
-    "PRIMARY_100": "#C2CCEC",
-    "PRIMARY_200": "#C2CCEC",
-    "PRIMARY_330": "#C2CCEC",
-    "PRIMARY_DARK_200": "#C2CCEC",
-    "WHITE_500": "#C2CCEC",
+    "BRAND_730": "#868BB9",
+    "PLUM_1": "#868BB9",
+    "PLUM_4": "#868BB9",
+    "PLUM_6": "#868BB9",
+    "PRIMARY_100": "#868BB9",
+    "PRIMARY_200": "#868BB9",
+    "PRIMARY_330": "#868BB9",
+    "PRIMARY_DARK_200": "#868BB9",
+    "WHITE_500": "#868BB9",
     "BLACK_500": "#000000b2",
     "PLUM_18": "#101012",
     "PRIMARY_645": "#101012",
