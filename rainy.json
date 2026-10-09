@@ -1,7 +1,7 @@
 {
   "name": "rainy",
   "description": "Relatively easy to the eyes, I think",
-  "version": "2",
+  "version": "1",
   "authors": [
     {
       "name": "Rains",
@@ -10,19 +10,19 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#9BA1E0"
+      "#6E82C5"
     ],
     "BACKGROUND_BRAND": [
-      "#9BA1E0"
+      "#6E82C5"
     ],
     "MENTION_FOREGROUND": [
-      "#9BA1E0"
+      "#6E82C5"
     ],
     "TEXT_LINK": [
-      "#9BA1E0"
+      "#6E82C5"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#9BA1E0"
+      "#6E82C5"
     ],
     "INTERACTIVE_HOVER": [
       "#141346"
@@ -236,27 +236,27 @@
     ]
   },
   "rawColors": {
-    "BRAND_200": "#4A4A80",
-    "BRAND_260": "#4A4A80",
-    "BRAND_300": "#4A4A80",
-    "BRAND_330": "#4A4A80",
-    "BRAND_345": "#4A4A80",
-    "BRAND_360": "#4A4A80",
-    "BRAND_400": "#4A4A80",
-    "BRAND_430": "#4A4A80",
-    "BRAND_460": "#4A4A80",
-    "BRAND_500": "#4A4A80",
-    "BRAND_530": "#4A4A80",
-    "BRAND_600": "#4A4A80",
-    "BRAND_630": "#4A4A80",
-    "BRAND_660": "#4A4A80",
-    "BRAND_700": "#4A4A80",
-    "PLUM_3": "#4A4A80",
-    "PLUM_15": "#4A4A80",
-    "PRIMARY_300": "#4A4A80",
-    "PRIMARY_360": "#4A4A80",
-    "PRIMARY_500": "#4A4A80",
-    "PRIMARY_530": "#4A4A80",
+    "BRAND_200": "#6E82C5",
+    "BRAND_260": "#6E82C5",
+    "BRAND_300": "#6E82C5",
+    "BRAND_330": "#6E82C5",
+    "BRAND_345": "#6E82C5",
+    "BRAND_360": "#6E82C5",
+    "BRAND_400": "#6E82C5",
+    "BRAND_430": "#6E82C5",
+    "BRAND_460": "#6E82C5",
+    "BRAND_500": "#6E82C5",
+    "BRAND_530": "#6E82C5",
+    "BRAND_600": "#6E82C5",
+    "BRAND_630": "#6E82C5",
+    "BRAND_660": "#6E82C5",
+    "BRAND_700": "#6E82C5",
+    "PLUM_3": "#6E82C5",
+    "PLUM_15": "#6E82C5",
+    "PRIMARY_300": "#6E82C5",
+    "PRIMARY_360": "#6E82C5",
+    "PRIMARY_500": "#6E82C5",
+    "PRIMARY_530": "#6E82C5",
     "BRAND_560": "#141346",
     "PRIMARY_400": "#141346",
     "PLUM_9": "#9AA1CF",
