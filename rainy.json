@@ -10,19 +10,19 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#6E82C5"
+      "#5F66B5"
     ],
     "BACKGROUND_BRAND": [
-      "#6E82C5"
+      "#5F66B5"
     ],
     "MENTION_FOREGROUND": [
-      "#6E82C5"
+      "#5F66B5"
     ],
     "TEXT_LINK": [
-      "#6E82C5"
+      "#5F66B5"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#6E82C5"
+      "#5F66B5"
     ],
     "INTERACTIVE_HOVER": [
       "#141346"
