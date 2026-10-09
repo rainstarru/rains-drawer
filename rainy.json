@@ -1,6 +1,6 @@
 {
   "name": "rainy",
-  "description": "SHOULD be easy to the eyes",
+  "description": "Relatively easy to the eyes, I think",
   "version": "2",
   "authors": [
     {
@@ -10,22 +10,22 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#323B67"
+      "#4A4A80"
     ],
     "BACKGROUND_BRAND": [
-      "#323B67"
+      "#4A4A80"
     ],
     "MENTION_FOREGROUND": [
-      "#323B67"
+      "#4A4A80"
     ],
     "TEXT_LINK": [
-      "#898DCB"
+      "#4A4A80"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#323B67"
+      "#4A4A80"
     ],
     "INTERACTIVE_HOVER": [
-      "#171436"
+      "#141346"
     ],
     "CHANNELS_DEFAULT": [
       "#9AA1CF"
@@ -148,28 +148,28 @@
       "#060313"
     ],
     "HEADER_PRIMARY": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "INTERACTIVE_NORMAL": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "TEXT_DEFAULT": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "TEXT_NORMAL": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "TEXT_PRIMARY": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "TEXT_STRONG": [
-      "#A4ABE1"
+      "#C2CCEC"
     ],
     "ANDROID_RIPPLE": [
       "#5b2a82"
@@ -236,29 +236,29 @@
     ]
   },
   "rawColors": {
-    "BRAND_200": "#898DCB",
-    "BRAND_260": "#898DCB",
-    "BRAND_300": "#898DCB",
-    "BRAND_330": "#898DCB",
-    "BRAND_345": "#898DCB",
-    "BRAND_360": "#898DCB",
-    "BRAND_400": "#898DCB",
-    "BRAND_430": "#898DCB",
-    "BRAND_460": "#898DCB",
-    "BRAND_500": "#898DCB",
-    "BRAND_530": "#898DCB",
-    "BRAND_600": "#898DCB",
-    "BRAND_630": "#898DCB",
-    "BRAND_660": "#898DCB",
-    "BRAND_700": "#898DCB",
-    "PLUM_3": "#898DCB",
-    "PLUM_15": "#898DCB",
-    "PRIMARY_300": "#898DCB",
-    "PRIMARY_360": "#898DCB",
-    "PRIMARY_500": "#898DCB",
-    "PRIMARY_530": "#898DCB",
-    "BRAND_560": "#171436",
-    "PRIMARY_400": "#171436",
+    "BRAND_200": "#4A4A80",
+    "BRAND_260": "#4A4A80",
+    "BRAND_300": "#4A4A80",
+    "BRAND_330": "#4A4A80",
+    "BRAND_345": "#4A4A80",
+    "BRAND_360": "#4A4A80",
+    "BRAND_400": "#4A4A80",
+    "BRAND_430": "#4A4A80",
+    "BRAND_460": "#4A4A80",
+    "BRAND_500": "#4A4A80",
+    "BRAND_530": "#4A4A80",
+    "BRAND_600": "#4A4A80",
+    "BRAND_630": "#4A4A80",
+    "BRAND_660": "#4A4A80",
+    "BRAND_700": "#4A4A80",
+    "PLUM_3": "#4A4A80",
+    "PLUM_15": "#4A4A80",
+    "PRIMARY_300": "#4A4A80",
+    "PRIMARY_360": "#4A4A80",
+    "PRIMARY_500": "#4A4A80",
+    "PRIMARY_530": "#4A4A80",
+    "BRAND_560": "#141346",
+    "PRIMARY_400": "#141346",
     "PLUM_9": "#9AA1CF",
     "PLUM_10": "#9AA1CF",
     "PLUM_11": "#9AA1CF",
@@ -284,15 +284,15 @@
     "PRIMARY_DARK_600": "#060313",
     "PRIMARY_DARK_630": "#060313",
     "PRIMARY_DARK_660": "#060313",
-    "BRAND_730": "#A4ABE1",
-    "PLUM_1": "#A4ABE1",
-    "PLUM_4": "#A4ABE1",
-    "PLUM_6": "#A4ABE1",
-    "PRIMARY_100": "#A4ABE1",
-    "PRIMARY_200": "#A4ABE1",
-    "PRIMARY_330": "#A4ABE1",
-    "PRIMARY_DARK_200": "#A4ABE1",
-    "WHITE_500": "#A4ABE1",
+    "BRAND_730": "#C2CCEC",
+    "PLUM_1": "#C2CCEC",
+    "PLUM_4": "#C2CCEC",
+    "PLUM_6": "#C2CCEC",
+    "PRIMARY_100": "#C2CCEC",
+    "PRIMARY_200": "#C2CCEC",
+    "PRIMARY_330": "#C2CCEC",
+    "PRIMARY_DARK_200": "#C2CCEC",
+    "WHITE_500": "#C2CCEC",
     "BLACK_500": "#000000b2",
     "PLUM_18": "#101012",
     "PRIMARY_645": "#101012",
@@ -307,11 +307,5 @@
     "customOverlays": true,
     "iconpack": "rosiecord-plumpy"
   },
-  "spec": 2,
-  "background": {
-    "url": "https://cdn.discordapp.com/attachments/1029064811495030907/1521967680385454133/0ace3486db6ea20ea649e7bb42d1bbe5.jpg?ex=6ac0b51b&is=6abf639b&hm=afb6fa3025284b27ace73d24fc5d2b8cbf14a9aa38b586c60a5abcfb2376a3c6&",
-    "alpha": 0.4,
-    "size": "cover",
-    "position": "center"
-  }
+  "spec": 2
 }
